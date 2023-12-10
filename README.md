@@ -6,6 +6,7 @@ It was developed to assist my friend, Herman Yunos who was paralysed after under
 Thanks to https://github.com/CallMeSwal/BlinkToText for the initial inspiration on using OpenCV and many other sources of OpenCV.js tutorials to get this done. It is still far from complete.
 
 TODO/Wishlist:
+- Optimize size for Mobile Output
 - Faster selection of text
 - Autocomplete of text
 - Detection of spectacles (Doesn't work well with spectacles on)
