@@ -1,7 +1,7 @@
 # Herman-Blink
 Herman-Blink is a web-based application that converts blinks to text
 
-It was developed to assist my friend, Herman Yunos who was paralysed after undergoing surgery and was only able to communicate with blinking his eyes. However I didn't manage to complete it fast enough for him to make use of it. May he rest in peace. Do make a prayer for him if you come across this, he was a good man. May this bring benefit to someone else whom might need it.
+It was developed to assist my friend, Herman Yunus who was paralysed after undergoing surgery and was only able to communicate with blinking his eyes. However I didn't manage to complete it fast enough for him to make use of it. May he rest in peace. Do make a prayer for him if you come across this, he was a good man. May this bring benefit to someone else whom might need it.
 
 Thanks to https://github.com/CallMeSwal/BlinkToText for the initial inspiration on using OpenCV and many other sources of OpenCV.js tutorials to get this done. It is still far from complete.
 
